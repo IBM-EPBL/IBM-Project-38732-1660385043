@@ -3,7 +3,7 @@
 Team ID:PNT2022TMID10150<br>
 University Admit Eligibility Predictor<br>
 
-Team Members:<br>
+<b>Team Members:<br>
 Madhav krishna S S <br>
 Rajkumar V <br>
 Rajarajan J <br>
